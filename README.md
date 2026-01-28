@@ -1,6 +1,6 @@
 # Bank Loan Data Analysis – Excel Dashboard
 
-![Dashboard Preview](Dashboard_Overview_Preview.PNG)
+![Dashboard Preview](Dashboard_Overview_Preview_1.PNG)
 
 
 ## Overview
